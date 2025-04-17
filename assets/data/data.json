@@ -13,6 +13,20 @@
             "image": "./assets/images/000.png",
             "projectPath": "./projects/000/index.html",
             "ytLink": "https://youtu.be/PZWKgHWfZiY"
+        },
+        {
+            "name": "Project 001",
+            "description": "Product Details Page Using Bootstrap 5 | Responsive UI Design",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Responsive Design",
+                "Bootstrap 5"
+            ],
+            "image": "./assets/images/001.png",
+            "projectPath": "./projects/001/index.html",
+            "ytLink": "https://youtu.be/YDI82SITu00?si=RjMbAOe6UFyrQb98"
         }
     ]
 }
