@@ -1,0 +1,83 @@
+{
+    "projects": [
+        {
+            "name": "Project 000",
+            "description": "Expanding Cards Project using JavaScript | Interactive UI Design",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Responsive Design",
+                "Bootstrap 5"
+            ],
+            "image": "./assets/images/000.png",
+            "projectPath": "./projects/000/index.html",
+            "ytLink": "https://youtu.be/PZWKgHWfZiY"
+        },
+        {
+            "name": "Project 001",
+            "description": "Simple Product Card Using Bootstrap 5 | Responsive UI Design",
+            "technologies": [
+                "HTML5",
+                "Bootstrap 5",
+                "CSS3",
+                "JavaScript"
+            ],
+            "image": "./assets/images/001.png",
+            "projectPath": "./projects/001/index.html",
+            "ytLink": "https://youtu.be/1kb9jPVOy1I"
+        },
+        {
+            "name": "Project 002",
+            "description": "Product Details Page Using Bootstrap 5 | Responsive UI Design",
+            "technologies": [
+                "HTML5",
+                "Bootstrap 5",
+                "CSS3",
+                "JavaScript"
+            ],
+            "image": "./assets/images/002.png",
+            "projectPath": "",
+            "ytLink": "https://youtu.be/gY78VGWWShA"
+        },
+        {
+            "name": "Project 003",
+            "description": "Bootstrap 5 Navbar & Footer – Easy & Responsive!",
+            "technologies": [
+                "HTML5",
+                "Bootstrap 5",
+                "CSS3",
+                "JavaScript"
+            ],
+            "image": "./assets/images/003.png",
+            "projectPath": "./projects/003/index.html",
+            "ytLink": "https://youtu.be/OuD6cU2P-J4"
+        },
+        {
+            "name": "Project 004",
+            "description": "Number Guessing Game using JavaScript & Bootstrap 5 | Fun Interactive Mini Game",
+            "technologies": [
+                "HTML5",
+                "Bootstrap 5",
+                "CSS3",
+                "JavaScript"
+            ],
+            "image": "./assets/images/004.png",
+            "projectPath": "./projects/004/index.html",
+            "ytLink": "https://www.youtube.com/playlist?list=PLkCIWFzrCMBkPZeq5UehvryRKRScw8Czm"
+        },
+        {
+            "name": "Project 005",
+            "description": "Project Todo Application using JavaScript & Bootstrap 5 | Responsive UI Design",
+            "technologies": [
+                "HTML5",
+                "Bootstrap 5",
+                "CSS3",
+                "JavaScript"
+            ],
+            "image": "./assets/images/005.png",
+            "projectPath": "./projects/005/index.html",
+            "ytLink": "https://www.youtube.com/playlist?list=PLkCIWFzrCMBnqnqPzkwSP4ZwcKcH1bBYy"
+        }
+    ]
+}

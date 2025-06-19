@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+}
+
+.badge{
+    position: absolute;
+    top: 20px;
+    left: 15px;
+  padding: 10px;
+}

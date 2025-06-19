@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Expanding Cards</title>
+
+    <!-- External CSS  -->
+    <link rel="stylesheet" href="./assets/css/style.min.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="active">
+        <img src="./assets/images/tinified/1.jpg" alt="" />
+        <h4>Endless Horizons</h4>
+      </div>
+      <div>
+        <img src="./assets/images/tinified/2.jpg" alt="" />
+        <h4>Beneath the Waves</h4>
+      </div>
+      <div>
+        <img src="./assets/images/tinified/3.jpg" alt="" />
+        <h4>Coastal Greenery</h4>
+      </div>
+      <div>
+        <img src="./assets/images/tinified/4.jpg" alt="" />
+        <h4>Sunset Serenity</h4>
+      </div>
+      <div>
+        <img src="./assets/images/tinified/5.jpg" alt="" />
+        <h4>Seaside Escape</h4>
+      </div>
+    </div>
+
+    <script>
+      const divs = document.querySelectorAll('.container div');
+
+      console.log(divs);
+
+      divs.forEach((div, idx) => {
+        div.addEventListener('click', () => {
+          removeActiveClasses();
+          div.classList.add('active');
+        });
+      });
+
+      function removeActiveClasses() {
+        divs.forEach((div) => {
+          div.classList.remove('active');
+        });
+      }
+    </script>
+  </body>
+</html>
